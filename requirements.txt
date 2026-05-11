@@ -6,3 +6,12 @@ pandas
 seaborn
 matplotlib
 pickle5
+tensorflow
+PIL
+fpdf
+joblib
+os
+datetime
+torch
+requests
+transformers

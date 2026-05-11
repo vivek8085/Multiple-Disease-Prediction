@@ -1,0 +1,5 @@
+models/
+*.pdf
+venv/
+preprocessing/
+.vscode/
