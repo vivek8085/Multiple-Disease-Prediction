@@ -58,6 +58,37 @@ Note: Some scripts expect inputs or may contain example code blocks. Open the Py
 - This repo includes Jupyter notebooks demonstrating EDA and training; use them to reproduce or improve models.
 - If you want a web UI, I can add a small Flask or Streamlit wrapper around the inference scripts.
 
+**Medika Chatbot**
+
+- **What:** Medika is a lightweight conversational assistant included with this project. It can answer basic health-related questions and invoke the repository's prediction scripts to provide model-backed responses.
+- **Files:** The chatbot implementation and launcher are in [src/chat.py](src/chat.py) and [src/chat_launcher.py](src/chat_launcher.py); chat session logs are stored in [src/chat_log.csv](src/chat_log.csv).
+- **Run:** Start the chatbot from the workspace root with one of the commands below:
+
+```bash
+streamlit run chat_launcher.py
+# or
+streamlit run chat.py
+```
+
+- **Notes:** The chatbot uses the existing prediction scripts (e.g., diabetes, kidney, lung) to produce informed responses; ensure the virtual environment and `requirements.txt` dependencies are installed before running.
+
+## Team Members
+
+- Vivek Lokolakar(@vivek8085)
+- Sudarshan khot(@Sudarshan-CSE)
+- Vinod Sajjan (@Vintagevinod007)
+- Shrishail bhagoji(@shrishail32)
+
+## Images
+
+Project images used in the repository are stored in the `imgs/` folder:
+
+- [imgs/01.jpeg](imgs/01.jpeg)
+- [imgs/02.jpeg](imgs/02.jpeg)
+- [imgs/03.jpeg](imgs/03.jpeg)
+- [imgs/04.jpeg](imgs/04.jpeg)
+- [imgs/team.jpeg](imgs/team.jpeg)
+
 ## Credits
 Created as a multi-disease prediction demo. Feel free to open an issue or request features.
 
