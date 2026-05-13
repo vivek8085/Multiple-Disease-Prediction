@@ -90,5 +90,4 @@ Project images used in the repository are stored in the `imgs/` folder:
 - [imgs/team.jpeg](imgs/team.jpeg)
 
 ## Credits
-Created as a multi-disease prediction demo. Feel free to open an issue or request features.
-
+Created as a multi-disease prediction demo. Feel free to contribute...
