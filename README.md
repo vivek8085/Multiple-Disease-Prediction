@@ -81,13 +81,20 @@ streamlit run chat.py
 
 ## Images
 
-Project images used in the repository are stored in the `imgs/` folder:
+### Project Screenshot 1
+![Screenshot 1](imgs/01.jpeg)
 
-- [imgs/01.jpeg](imgs/01.jpeg)
-- [imgs/02.jpeg](imgs/02.jpeg)
-- [imgs/03.jpeg](imgs/03.jpeg)
-- [imgs/04.jpeg](imgs/04.jpeg)
-- [imgs/team.jpeg](imgs/team.jpeg)
+### Project Screenshot 2
+![Screenshot 2](imgs/02.jpeg)
+
+### Project Screenshot 3
+![Screenshot 3](imgs/03.jpeg)
+
+### Project Screenshot 4
+![Screenshot 4](imgs/04.jpeg)
+
+### Team
+![Team](imgs/team.jpeg)
 
 ## Credits
 Created as a multi-disease prediction demo. Feel free to contribute...
